@@ -73825,7 +73825,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh13872
+  m_Name: pb_Mesh13892
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -76183,7 +76183,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 7.71e-43, y: 1e-45, z: 0, w: 1e-45}
+  m_BoundingSphereOverride: {x: 0.1875, y: 0.05078125, z: 0.0390625, w: -0.05078125}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -76195,7 +76195,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853080465}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17, y: 2.5, z: -21.25}
+  m_LocalPosition: {x: 16.75, y: 2.5, z: -21}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
