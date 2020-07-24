@@ -30,9 +30,9 @@ public class CameraMotion : MonoBehaviour
         rotationAngle += mouse_x * angularSpeed*Time.deltaTime;
         transform.Rotate(0, rotationAngle, 0);
 
-        // transform.Translate(Vector3.forward * Time.deltaTime * speed);;
+        // transform.Translate(Vector3.forward * Time.deltaTime * speed);
         Vector3 direction=transform.TransformDirection(Vector3.forward*Time.deltaTime*speed);
         characterController.Move(direction);
-
+       
     }
 }
